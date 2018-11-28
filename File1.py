@@ -1,5 +1,7 @@
-a=int(raw_input())
-if a>=0:
-    print('positive')
-else: 
-    print('negative')
+num=int(raw_input())
+if(num>0):
+	print("Positive")
+elif(num<0):
+	print("Negative")
+else:
+	print("Zero")
