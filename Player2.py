@@ -1,6 +1,6 @@
-x=int(raw_input())
-fact=1
-while(x!=0):
-	fact=fact*x
-	x=x-1
-print fact
+abc=int(raw_input())
+factorial=1
+while(abc!=0):
+	factorial=factorial*x
+	abc=abc-1
+print factorial
