@@ -1,10 +1,10 @@
-a=int(raw_input())
-b=a%10
-c=a/10
-d=c%10
-e=c/10
-x=b**3+d**3+e**3
-if(x==a):
+x=int(raw_input())
+y=x%10
+z=x/10
+p=z%10
+q=z/10
+s=y**3+p**3+q**3
+if(s==x):
 	print("yes")
 else:
 	print("no")
