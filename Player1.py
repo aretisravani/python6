@@ -1,2 +1,2 @@
-string=raw_input()
-print string[::-1]
+sra=raw_input()
+print sra[::-1]
