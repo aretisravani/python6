@@ -1,2 +1,2 @@
-z=raw_input()
-print z[::-1]
+sra=raw_input()
+print sra[::-1]
