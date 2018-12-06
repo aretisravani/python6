@@ -1,2 +1,2 @@
-a=raw_input()
-print a.count('.')+int(1)
+xy=raw_input()
+print xy.count('.')+int(1)
