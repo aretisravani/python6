@@ -1,2 +1,2 @@
-z=str(raw_input())
-print(len(z)-z.count(' '))
+pq=str(raw_input())
+print(len(pq)-pq.count(' '))
