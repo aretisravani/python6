@@ -1,5 +1,5 @@
-x=raw_input()
-x=list(x)
-for i in range(0,len(x)-1,2):
-    x[i],x[i+1]=x[i+1],x[i]
-print "".join(x)
+s=raw_input()
+s=list(s)
+for a in range(0,len(s)-1,2):
+    s[a],s[a+1]=s[a+1],s[a]
+print "".join(s)
